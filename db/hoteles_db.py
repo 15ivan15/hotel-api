@@ -241,8 +241,8 @@ database_hotels = {
 
     "Neiva": HotelsInDB(**{"hotelname":"Hotel Paradisus", 
                             "estrellas":"3",
-                            "tarifa_inicial": 79200,
-                            "tarifa_alta": 59000,
+                            "tarifa_inicial": 59000,
+                            "tarifa_alta": 79200,
                             "tarifa_baja":39500,
                             "tipo_habitacion":"Doble",
                             "ciudad":"Neiva", 
